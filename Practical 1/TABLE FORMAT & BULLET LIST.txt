@@ -1,0 +1,51 @@
+TABLE FORMAT & BULLET LIST
+
+<!DOCTYPE = html>
+
+<html>
+
+<head>
+<title> My First Web Page </tilte>
+<style>
+table, th, td {
+border: 1px solid blue;
+border-collapse: collapse;
+}
+</style>
+</head>
+
+<body>
+<table width = 50%>
+<caption> Student Data </caption>
+<tr>
+<th rowspan = 2> PRN </th>
+<th rowrspan = 3> Name </th>
+<th colspan = 3> Marks </th>
+</tr>
+<th> Sub1 </th>
+<th> Sub2 </th>
+<th> Sub3 </th>
+</tr>
+<td> 25070521089 </td>
+<td> Parv </td>
+<td> 94.4 </td>
+<td> 95 </td>
+<td> 96 </td>
+</table>
+
+<ul>
+<li> Mango </li>
+<li> Apple </li>
+<li> Banana </li>
+<li> Pineapple </li>
+</ul>
+
+<ol type = a>
+<li> Car </li>
+<li> Bus </li>
+<li> Bike </li>
+</ol>
+
+</body>
+
+</html>

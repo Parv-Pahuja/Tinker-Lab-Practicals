@@ -1,0 +1,16 @@
+TEXT FORMATTING TAGS
+
+<!DOCTYPE = html>
+<b>Bold Faces</b>
+<strong>This is also same like bold but shows importance</strong>
+<i>Italics</i>
+<u>Underline</u>
+<p>New Paragraph</p>
+<br> New or Next Line
+<pre>Preformed Text</pre>
+<mark>Marked Text</mark>
+<small>Smaller Text</small>
+<del>Deleted Text</del>
+<ins>Inserted text</ins>
+<sub>Subscript Text</sub>
+<sup>Superscript Text</sup>

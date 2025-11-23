@@ -1,0 +1,10 @@
+INLINE COMMENT
+
+<!DOCTYPE = html>
+<html>
+<body>
+<p> I am
+<!----going to be----> a Web Developer
+</p>
+</body>
+</html>

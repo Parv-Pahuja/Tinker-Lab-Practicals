@@ -1,0 +1,15 @@
+BASIC HTML STRUCTURE
+
+<!DOCTYPE = html>
+
+<head>
+<title> My First HTML Text </title>
+</head>
+
+<body>
+<h1> Hello, This Is Parv </h1>
+<p> I am from Nagpur </p>
+<p> I am 1st Year Student </p>
+</body>
+
+</html>

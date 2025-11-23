@@ -1,0 +1,22 @@
+EXAMPLE OF TEXT FORMATTING TAGS
+
+<html>
+
+<head>
+<title> My First Page </title>
+</head>
+
+<body>
+<h1> This is the First Heading </h1>
+<p> Paragraph Tag </p>
+<p> Another Paragraph Tag </p>
+<h1> heading Tag </h1>
+<b> Bold Tag </b?
+<br>
+<strong> Bold Tag </strong>
+<br>
+<i> Italic Tag </i>
+<u><p> This is Underline Tag </p></u>
+</body>
+
+</html>

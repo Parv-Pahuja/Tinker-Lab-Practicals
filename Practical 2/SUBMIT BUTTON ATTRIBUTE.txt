@@ -1,0 +1,9 @@
+SUBMIT BUTTON ATTRIBUTE
+
+<!DOCTYPE = html>
+
+<html>
+<body>
+<form action = "a.txt">
+First name : <br>
+<input type = "text" name = "firstname"> <br>

@@ -1,0 +1,20 @@
+INTERNAL STYLE
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color : linen;
+}
+h1 {
+    color : maroon;
+    margin-left : 40px;
+}
+</style>
+</head>
+<body>
+<h1> This is a Heading </h1>
+<p> This is  Paragraph </p>
+</body>
+</html>

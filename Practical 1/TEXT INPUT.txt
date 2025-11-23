@@ -1,0 +1,12 @@
+TEXT INPUT
+
+<!DOCTYPE = html>
+
+<html>
+<form>
+First name : <br>
+<input type = "text" name = "Firstname"> <br>
+Last name : <br>
+<input type = "text" name = "Lastname"> <br>
+</form>
+</html>

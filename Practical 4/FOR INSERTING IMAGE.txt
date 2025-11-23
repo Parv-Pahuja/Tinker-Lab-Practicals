@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+image-style {
+    width : 300px;
+    height : auto;
+    border-radius : 15px;
+    box-shadow : 0px 4px rgb(0,0,0,0.3);
+}
+</style>
+</head>
+<body>
+<h1 style = "color : lighte red;"> SIT Nagpur </h1>
+<img src = "gfg.jpg" alt = "Profile Picture" class = "image-style">
+</body>
+</html>

@@ -1,0 +1,11 @@
+SINGLE LINE COMMENT
+
+<!DOCTYPE = html>
+
+<html>
+<body>
+<!-----Start---->
+<h1> Hello World </h1>
+<!----Single Line Comment---->
+</body>
+</html>
